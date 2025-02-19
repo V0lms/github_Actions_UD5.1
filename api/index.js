@@ -5,6 +5,7 @@ const port = process.env.PORT || 3000;
 const animals = {
     "cat": "meow",
     "dog": "bark",
+    "pig": "oink",
     "bear": "growl",
     "frog": "croak",
     "lion": "roar",
